@@ -7,7 +7,7 @@ class GenericStorage<T extends Person> {
     private List<T> items = new ArrayList<>();
     private static int idCounter = 1;
 
-
+//asd
 
     public void addItem(String name, int age) {
         T item = (T) (items instanceof List<Student>
