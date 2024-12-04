@@ -14,7 +14,7 @@ import java.util.List;
             GenericStorage<Teacher> teacherStorage = new GenericStorage<>();
             teacherStorage.addItem("Dr. Smith", 45);
             teacherStorage.addItem("Mrs. Johnson", 40);
-
+//asd
 
             System.out.println("Students:");
             studentStorage.displayAllItems();
